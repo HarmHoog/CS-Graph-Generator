@@ -1,0 +1,7 @@
+pet|isA|food
+dog|isA|food
+dog|drives|car
+car|atLocation|home
+dog|has|wheels
+human|has|wheels
+fruit|has|wheels

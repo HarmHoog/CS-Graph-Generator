@@ -1,0 +1,13 @@
+apple|isA|fruit
+pear|isA|fruit
+fruit|isA|food
+apple|isA|food
+dog|isA|animal
+fruit|contains|vitamins
+dog|isA|pet
+dog|eats|food
+pet|atLocation|home
+car|has|wheels
+car|has|horn
+human|eats|food
+human|drives|car
